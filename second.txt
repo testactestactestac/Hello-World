@@ -1,6 +1,0 @@
-This is second.txt file.
-This is second.txt file.
-This is second.txt file.
-This is second.txt file.
-This is second.txt file.
-This is second.txt file.
